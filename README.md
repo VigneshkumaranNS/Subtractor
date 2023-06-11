@@ -73,7 +73,7 @@ HALF SUBTRACTOR:
 ![DE4 1](https://github.com/VigneshkumaranNS/Subtractor/assets/119484483/afbf0cbe-9187-4d95-9f2c-26bafff64ba2)
 
 
-FULL SUBTRACTOR:
+FULL SUBTRACTOR
 ![DE4 2](https://github.com/VigneshkumaranNS/Subtractor/assets/119484483/14e80d3e-bc9f-4bc5-93f5-bc57384e78de)
 
 
