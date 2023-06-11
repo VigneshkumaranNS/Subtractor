@@ -70,16 +70,17 @@ endmodule
 ```
 ## RTL Schematic:
 HALF SUBTRACTOR:
+![DE4 1](https://github.com/VigneshkumaranNS/Subtractor/assets/119484483/afbf0cbe-9187-4d95-9f2c-26bafff64ba2)
 
 
 FULL SUBTRACTOR:
-
+![DE4 2](https://github.com/VigneshkumaranNS/Subtractor/assets/119484483/14e80d3e-bc9f-4bc5-93f5-bc57384e78de)
 
 
 ## Timing Diagram:
 1.
-
+![DE4 3](https://github.com/VigneshkumaranNS/Subtractor/assets/119484483/da1bca65-12a3-4536-9126-2177ba8edb3c)
 2.
-
+![DE4 4](https://github.com/VigneshkumaranNS/Subtractor/assets/119484483/725a14fb-f6ea-4b03-a99f-4e2c45866b77)
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables are verified using Verilog HDL.
