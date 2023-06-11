@@ -69,14 +69,10 @@ or(borrow,p,q,r);
 endmodule
 ```
 ## RTL Schematic:
-HALF SUBTRACTOR:
-![DE4 1](https://github.com/VigneshkumaranNS/Subtractor/assets/119484483/afbf0cbe-9187-4d95-9f2c-26bafff64ba2)
-
-
-FULL SUBTRACTOR
-![DE4 2](https://github.com/VigneshkumaranNS/Subtractor/assets/119484483/14e80d3e-bc9f-4bc5-93f5-bc57384e78de)
-
-
+Half Subtractor:
+![DE4 1](https://github.com/VigneshkumaranNS/Subtractor/assets/119484483/3b3c76dd-dc6e-4aca-b31f-dbeb185a77b2)
+Full Subtractor:
+![DE4 2](https://github.com/VigneshkumaranNS/Subtractor/assets/119484483/44ec1129-584c-4b30-9217-654e1c5610c6)
 ## Timing Diagram:
 1.
 ![DE4 3](https://github.com/VigneshkumaranNS/Subtractor/assets/119484483/da1bca65-12a3-4536-9126-2177ba8edb3c)
