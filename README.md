@@ -71,6 +71,7 @@ endmodule
 ## RTL Schematic:
 1.
 ![DE4 1](https://github.com/VigneshkumaranNS/Subtractor/assets/119484483/3b3c76dd-dc6e-4aca-b31f-dbeb185a77b2)
+<br>
 2.
 ![DE4 2](https://github.com/VigneshkumaranNS/Subtractor/assets/119484483/44ec1129-584c-4b30-9217-654e1c5610c6)
 
